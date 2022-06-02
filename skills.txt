@@ -1,0 +1,10 @@
+1. HTTP
+2. GIT
+3. VPN
+4. SQL
+5. Postman
+6. Charles
+7. Fiddler
+8. Android Studio
+9. XCODE
+10. QA Theory

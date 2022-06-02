@@ -1,0 +1,5 @@
+fav_film Logan
+fav_tvshow Stranger things
+fav_food Pizza
+fav_season Summer
+country_to_visit Italy
