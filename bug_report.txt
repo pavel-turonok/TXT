@@ -1,1 +1,18 @@
-
+Title Нажатие кнопки 'Корзина' на главной странице не перенаправляет на страницу Корзина
+Project Сайт магазина товаров 'AliExpress
+Steps
+Step 1 Зайти на главную страницу сайта (ссылка_на_сайт)
+Step 2 Нажать кнопку Корзина
+Enviroment
+OS Windows 10 x64 build 19043
+Browser Google Chrome v96.0.4664.45 x64
+Component Кнопка Корзина
+build 1.7.4
+Actual resoult Нажатие кнопки Корзина НЕ перенаправляет на страницу Корзина
+Expecting resoult Нажатие кнопки Корзина перенаправляет на страницу Корзина
+Severity Critical
+Priority High
+Status Open
+Author Павел Туронок
+Sign to pavel-turonok
+Attachment Ссылка на картинку или видео с багом
