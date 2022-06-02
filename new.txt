@@ -1,0 +1,6 @@
+name Pavel
+surname Turonok
+father_name Sergey
+age 23
+pets 0
+desired_salary 1000000$
